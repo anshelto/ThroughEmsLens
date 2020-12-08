@@ -68,7 +68,7 @@
 }
 
 .background  {
-    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-emily-almafi.jpg");
+    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-emily-almafi.jpg?raw=true");
     width: 100vw;
     height: 100vh;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-iceland-rck.jpg");
+    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-iceland-rck.jpg?raw=true");
     background-size: cover;
   }
   .card-about {
@@ -626,7 +626,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-bam.jpg");
+    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-bam.jpg?raw=true");
     background-size: cover;
     
   }
@@ -819,7 +819,7 @@
   
   
 .background-container {
-    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-nca.jpg");
+    background-image: url("https://github.com/anshelto/Images/blob/main/Compressed-Imgs/Comp-%20Through-MI-Imgs/cmp-nca.jpg?raw=true");
     background-size: cover;
     width: 100vw;
     height: 100vh;
