@@ -3,7 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Arizonia', cursive;
+    
+    font-family: 'Noto Sans JP', sans-serif;
 }
 .navbar  {
     display: flex;
@@ -25,7 +26,7 @@
     }
 
 .brand-title {
-    font-family: 'Arizonia', cursive;
+   
     text-align: center;
     padding: 10px;
     font-size: 1.5rem;
@@ -34,7 +35,7 @@
 
 }
 .navbar-links ul {
-   font-family: 'Arizonia', cursive;
+  
    margin: 0;
    padding: 0;
    display: flex;
@@ -46,7 +47,7 @@
 }
 
 .navbar-links li a {
-    font-family: 'Arizonia', cursive;
+   
     text-decoration: none;
     color: white;
     padding: 1rem;
@@ -118,7 +119,13 @@
     color: black;
     text-align: center;
 }
+.Main-Header {
+    font-family: 'Arizonia', cursive;
+   }
 
+.Emily-Name {
+    font-family: 'Arizonia', cursive;
+}
 @media screen and (max-width: 580px) {
     .toggle-button {
         display: flex;
@@ -280,6 +287,7 @@
   }
   
   .about-header {
+    font-family: 'Arizonia', cursive;
     color: whitesmoke;
     font-size: 2.5rem;
   
@@ -294,6 +302,7 @@
   
   }
   .about-sub {
+     font-family: 'Arizonia', cursive;
     font-size: 1.5rem;
     color: silver;
     font-weight: 900;
@@ -833,11 +842,13 @@
   }
    
   .contact-h1 {
+    font-family: 'Arizonia', cursive;
     font-size: 50px;
     
     margin-bottom: 5px;
   }
   .contact-h2 {
+     font-family: 'Arizonia', cursive;
     font-size: 25px;
   }
   
