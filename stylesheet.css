@@ -25,15 +25,12 @@
     display: flex;
     }
 
-.brand-title {
-   
-    text-align: center;
-    padding: 10px;
-    font-size: 1.5rem;
-    margin: .5rem;
-    color:lightgrey;
-
+.logo img {
+     height: 60px;
+   	 border-radius: 50%;
+    padding: .3em;
 }
+
 .navbar-links ul {
   
    margin: 0;
@@ -111,6 +108,8 @@
     border-radius: 10px;
 }
 
+.logo 
+
 
 .main-logo {
     display: flex;
@@ -129,8 +128,11 @@
 @media screen and (max-width: 580px) {
     .toggle-button {
         display: flex;
-
     }
+   .logo img {
+    display: none;
+    }
+        
     .navbar-links {
         width: 100%;
         display: none;
