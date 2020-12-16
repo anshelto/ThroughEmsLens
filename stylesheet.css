@@ -127,7 +127,7 @@
         display: flex;
     }
    .logo img {
-    display: none;
+    height:55px;
     }
         
     .navbar-links {
